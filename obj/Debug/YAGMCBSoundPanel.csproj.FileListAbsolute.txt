@@ -199,3 +199,13 @@ D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Perf
 D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 87 - Song 36 - Part 1 - Happiness.mp3
 D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 88 - Song 37 - Part 1 - Bows.mp3
 D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 89 - Song 38 - Part 1 - Exit Music.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\Icons\AutoPlayDisabled.bmp
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\Icons\AutoPlayEnabled.bmp
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\Icons\Muted.bmp
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\Icons\Pause.bmp
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\Icons\Play.bmp
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\Icons\Replay.bmp
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\Icons\SkipNext.bmp
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\Icons\SkipPrevious.bmp
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\Icons\Stop.bmp
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\Icons\Unmuted.bmp

@@ -5,6 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Drawing;
 using System.Windows.Forms;
 
 namespace YAGMCBSoundPanel
@@ -29,9 +30,25 @@ namespace YAGMCBSoundPanel
             WaveOutputDevice.Init(SoundQues[0].RawSourceWaveStream);
             Console.WriteLine("Initialized Sound Panel.");
 
+            Bitmap AutoPlayDisabledTexture = new Bitmap("Icons\\AutoPlayDisabled.bmp");
+            Bitmap AutoPlayEnabledTexture = new Bitmap("Icons\\AutoPlayEnabled.bmp");
+            Bitmap MutedTexture = new Bitmap("Icons\\Muted.bmp");
+            Bitmap PauseTexture = new Bitmap("Icons\\Pause.bmp");
+            Bitmap PlayTexture = new Bitmap("Icons\\Play.bmp");
+            Bitmap ReplayTexture = new Bitmap("Icons\\Replay.bmp");
+            Bitmap SkipNextTexture = new Bitmap("Icons\\SkipNext.bmp");
+            Bitmap SkipPreviousTexture = new Bitmap("Icons\\SkipPrevious.bmp");
+            Bitmap StopTexture = new Bitmap("Icons\\Stop.bmp");
+            Bitmap UnmutedTexture = new Bitmap("Icons\\Unmuted.bmp");
+
             Form player = new Form();
 
             Button PlayPauseButton = new Button();
+            PlayPauseButton.Size = new Size(100, 100);
+            PlayPauseButton.BackgroundImage = PlayTexture;
+            PlayPauseButton.BackgroundImageLayout = ImageLayout.Stretch;
+
+            player.Controls.Add(PlayPauseButton);
 
             Application.Run(player);
         }
