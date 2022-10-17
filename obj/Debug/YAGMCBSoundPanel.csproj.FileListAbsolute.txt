@@ -1,23 +1,201 @@
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\bin\Debug\YAGMCBSoundPanel.exe.config
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\bin\Debug\YAGMCBSoundPanel.exe
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\bin\Debug\YAGMCBSoundPanel.pdb
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\obj\Debug\YAGMCBSoundPanel.csproj.AssemblyReference.cache
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\obj\Debug\YAGMCBSoundPanel.csproj.SuggestedBindingRedirects.cache
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\obj\Debug\YAGMCBSoundPanel.csproj.CoreCompileInputs.cache
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\obj\Debug\YAGMCBSoundPanel.exe
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\obj\Debug\YAGMCBSoundPanel.pdb
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\bin\Debug\Microsoft.Win32.Registry.dll
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\bin\Debug\NAudio.Asio.dll
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\bin\Debug\NAudio.Core.dll
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\bin\Debug\NAudio.dll
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\bin\Debug\NAudio.Midi.dll
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\bin\Debug\NAudio.Wasapi.dll
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\bin\Debug\NAudio.WinForms.dll
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\bin\Debug\NAudio.WinMM.dll
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\bin\Debug\System.Security.AccessControl.dll
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\bin\Debug\System.Security.Principal.Windows.dll
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\bin\Debug\Microsoft.Win32.Registry.xml
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\bin\Debug\NAudio.xml
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\bin\Debug\System.Security.AccessControl.xml
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\bin\Debug\System.Security.Principal.Windows.xml
-C:\Users\RandomiaGaming\Desktop\YAGMCBSoundPanel\obj\Debug\YAGMCBSoundPanel.csproj.CopyComplete
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 01 - Song 01 - Part 1 - Opening.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 02 - Song 01 - Part 2 - Opening.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 03 - Song 01 - Part 3 - Opening.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 04 - Song 01 - Part 4 - Opening.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 05 - Song 01 - Part 5 - Opening.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 06 - Song 01 - Part 6 - Opening.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 07 - Song 01 - Part 7 - Opening.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 08 - Song 02 - Part 1 - Youre A Good Man Charlie Brown.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 09 - Song 03 - Part 1 - Playoff Youre A Good Man.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 10 - Song 04 - Part 1 - Before Lunch Hour.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 11 - Song 05 - Part 1 - After Lunch Hour.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 12 - Song 06 - Part 1 - Schroeder.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 13 - Song 06 - Part 2 - Schroeder.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 14 - Song 07 - Part 1 - Quick Changes Spaghetti.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 15 - Song 07 - Part 2 - Quick Changes Spaghetti.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 16 - Song 07 - Part 3 - Quick Changes Spaghetti.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 17 - Song 07 - Part 4 - Quick Changes Spaghetti.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 18 - Song 07 - Part 5 - Quick Changes Spaghetti.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 19 - Song 08 - Part 1 - Snoopy.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 20 - Song 08 - Part 2 - Snoopy.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 21 - Song 09 - Part 1 - Quick Changes Moon.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 22 - Song 09 - Part 2 - Quick Changes Moon.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 23 - Song 09 - Part 3 - Quick Changes Moon.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 24 - Song 09 - Part 4 - Quick Changes Moon.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 25 - Song 10 - Part 1 - My Blanket And Me.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 26 - Song 10 - Part 2 - My Blanket And Me.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 27 - Song 10 - Part 3 - My Blanket And Me.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 28 - Song 10 - Part 4 - My Blanket And Me.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 29 - Song 11 - Part 1 - After Blanket.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 30 - Song 12 - Part 1 - Queen Lucy Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 31 - Song 12 - Part 2 - Queen Lucy Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 32 - Song 12 - Part 3 - Queen Lucy Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 33 - Song 12 - Part 4 - Queen Lucy Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 34 - Song 12 - Part 5 - Queen Lucy Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 35 - Song 12 - Part 6 - Queen Lucy Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 36 - Song 12 - Part 7 - Queen Lucy Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 37 - Song 13 - Part 1 - Quick Changes Coathanger.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 38 - Song 13 - Part 1 - Quick Changes Coathanger.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 39 - Song 14 - Part 1 - The Kite.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 40 - Song 15 - Part 1 - Quick Changes Valentines.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 41 - Song 15 - Part 2 - Quick Changes Valentines.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 42 - Song 15 - Part 3 - Quick Changes Valentines.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 43 - Song 15 - Part 4 - Quick Changes Valentines.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 44 - Song 15 - Part 5 - Quick Changes Valentines.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 45 - Song 16 - Part 1 - Before Doctor Lucy Opens Shop.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 46 - Song 17 - Part 1 - The Doctor Is In.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 47 - Song 17 - Part 2 - The Doctor Is In.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 48 - Song 18 - Part 1 - Quick Changes Ice Cream.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 49 - Song 19 - Part 1 - Quick Changes Art.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 50 - Song 19 - Part 2 - Quick Changes Art.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 51 - Song 19 - Part 3 - Quick Changes Art.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 52 - Song 20 - Part 1 - Beethoven Day.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 53 - Song 21 - Part 1 - Playoff Beethoven Day.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 54 - Song 22 - Part 1 - Rabbit Chasing Pantomime.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 55 - Song 22 - Part 2 - Rabbit Chasing Pantomime.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 56 - Song 22 - Part 3 - Rabbit Chasing Pantomime.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 57 - Song 23 - Part 1 - The Book Report.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 58 - Song 24 - Part 1 - The Red Baron Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 59 - Song 24 - Part 2 - The Red Baron Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 60 - Song 24 - Part 3 - The Red Baron Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 61 - Song 24 - Part 4 - The Red Baron Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 62 - Song 25 - Part 1 - My New Philosophy.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 63 - Song 25 - Part 2 - My New Philosophy.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 64 - Song 25 - Part 3 - My New Philosophy.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 65 - Song 25 - Part 4 - My New Philosophy.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 66 - Song 26 - Part 1 - Before Baseball.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 67 - Song 27 - Part 1 - The Baseball Game.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 68 - Song 27 - Part 2 - The Baseball Game.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 69 - Song 27 - Part 3 - The Baseball Game.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 70 - Song 28 - Part 1 - After Baseball.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 71 - Song 29 - Part 1 - Quick Changes Crabbiness Survey.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 72 - Song 29 - Part 2 - Quick Changes Crabbiness Survey.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 73 - Song 29 - Part 3 - Quick Changes Crabbiness Survey.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 74 - Song 30 - Part 1 - Quick Changes A Loving Little Brother.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 75 - Song 31 - Part 1 - Glee Club Rehearsal.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 76 - Song 32 - Part 1 - Quick Changes Snoopy.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 77 - Song 32 - Part 2 - Quick Changes Snoopy.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 78 - Song 32 - Part 3 - Quick Changes Snoopy.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 79 - Song 32 - Part 4 - Quick Changes Snoopy.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 80 - Song 33 - Part 1 - Little Known Facts.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 81 - Song 33 - Part 2 - Little Known Facts.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 82 - Song 34 - Part 1 - Suppertime.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 83 - Song 34 - Part 2 - Suppertime.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 84 - Song 34 - Part 3 - Suppertime.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 85 - Song 34 - Part 4 - Suppertime.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 86 - Song 35 - Part 1 - Night Scene Underscore.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 87 - Song 36 - Part 1 - Happiness.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 88 - Song 37 - Part 1 - Bows.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 89 - Song 38 - Part 1 - Exit Music.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 01 - Song 01 - Part 1 - Opening.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 02 - Song 01 - Part 2 - Opening.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 03 - Song 01 - Part 3 - Opening.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 04 - Song 01 - Part 4 - Opening.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 05 - Song 01 - Part 5 - Opening.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 06 - Song 01 - Part 6 - Opening.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 07 - Song 01 - Part 7 - Opening.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 08 - Song 02 - Part 1 - Youre A Good Man Charlie Brown.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 09 - Song 03 - Part 1 - Playoff Youre A Good Man.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 10 - Song 04 - Part 1 - Before Lunch Hour.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCBSoundPanel.exe.config
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCBSoundPanel.exe
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCBSoundPanel.pdb
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\NAudio.Asio.dll
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\NAudio.Core.dll
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\NAudio.dll
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\NAudio.Midi.dll
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\NAudio.Wasapi.dll
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\NAudio.WinForms.dll
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\NAudio.WinMM.dll
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\System.Security.AccessControl.dll
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\System.Security.Principal.Windows.dll
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\NAudio.xml
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\System.Security.AccessControl.xml
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\System.Security.Principal.Windows.xml
+D:\Programming Projects\YAGMCBSoundBoard\obj\Debug\YAGMCBSoundPanel.csproj.AssemblyReference.cache
+D:\Programming Projects\YAGMCBSoundBoard\obj\Debug\YAGMCBSoundPanel.csproj.SuggestedBindingRedirects.cache
+D:\Programming Projects\YAGMCBSoundBoard\obj\Debug\YAGMCBSoundPanel.csproj.CoreCompileInputs.cache
+D:\Programming Projects\YAGMCBSoundBoard\obj\Debug\YAGMCBSoundPanel.csproj.CopyComplete
+D:\Programming Projects\YAGMCBSoundBoard\obj\Debug\YAGMCBSoundPanel.exe
+D:\Programming Projects\YAGMCBSoundBoard\obj\Debug\YAGMCBSoundPanel.pdb
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 11 - Song 05 - Part 1 - After Lunch Hour.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 12 - Song 06 - Part 1 - Schroeder.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 13 - Song 06 - Part 2 - Schroeder.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 14 - Song 07 - Part 1 - Quick Changes Spaghetti.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 15 - Song 07 - Part 2 - Quick Changes Spaghetti.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 16 - Song 07 - Part 3 - Quick Changes Spaghetti.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 17 - Song 07 - Part 4 - Quick Changes Spaghetti.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 18 - Song 07 - Part 5 - Quick Changes Spaghetti.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 19 - Song 08 - Part 1 - Snoopy.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 20 - Song 08 - Part 2 - Snoopy.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 21 - Song 09 - Part 1 - Quick Changes Moon.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 22 - Song 09 - Part 2 - Quick Changes Moon.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 23 - Song 09 - Part 3 - Quick Changes Moon.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 24 - Song 09 - Part 4 - Quick Changes Moon.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 25 - Song 10 - Part 1 - My Blanket And Me.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 26 - Song 10 - Part 2 - My Blanket And Me.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 27 - Song 10 - Part 3 - My Blanket And Me.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 28 - Song 10 - Part 4 - My Blanket And Me.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 29 - Song 11 - Part 1 - After Blanket.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 30 - Song 12 - Part 1 - Queen Lucy Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 31 - Song 12 - Part 2 - Queen Lucy Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 32 - Song 12 - Part 3 - Queen Lucy Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 33 - Song 12 - Part 4 - Queen Lucy Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 34 - Song 12 - Part 5 - Queen Lucy Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 35 - Song 12 - Part 6 - Queen Lucy Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 36 - Song 12 - Part 7 - Queen Lucy Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 37 - Song 13 - Part 1 - Quick Changes Coathanger.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 38 - Song 13 - Part 1 - Quick Changes Coathanger.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 39 - Song 14 - Part 1 - The Kite.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 40 - Song 15 - Part 1 - Quick Changes Valentines.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 41 - Song 15 - Part 2 - Quick Changes Valentines.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 42 - Song 15 - Part 3 - Quick Changes Valentines.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 43 - Song 15 - Part 4 - Quick Changes Valentines.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 44 - Song 15 - Part 5 - Quick Changes Valentines.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 45 - Song 16 - Part 1 - Before Doctor Lucy Opens Shop.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 46 - Song 17 - Part 1 - The Doctor Is In.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 47 - Song 17 - Part 2 - The Doctor Is In.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 48 - Song 18 - Part 1 - Quick Changes Ice Cream.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 49 - Song 19 - Part 1 - Quick Changes Art.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 50 - Song 19 - Part 2 - Quick Changes Art.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 51 - Song 19 - Part 3 - Quick Changes Art.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 52 - Song 20 - Part 1 - Beethoven Day.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 53 - Song 21 - Part 1 - Playoff Beethoven Day.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 54 - Song 22 - Part 1 - Rabbit Chasing Pantomime.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 55 - Song 22 - Part 2 - Rabbit Chasing Pantomime.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 56 - Song 22 - Part 3 - Rabbit Chasing Pantomime.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 57 - Song 23 - Part 1 - The Book Report.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 58 - Song 24 - Part 1 - The Red Baron Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 59 - Song 24 - Part 2 - The Red Baron Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 60 - Song 24 - Part 3 - The Red Baron Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 61 - Song 24 - Part 4 - The Red Baron Melodrama.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 62 - Song 25 - Part 1 - My New Philosophy.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 63 - Song 25 - Part 2 - My New Philosophy.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 64 - Song 25 - Part 3 - My New Philosophy.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 65 - Song 25 - Part 4 - My New Philosophy.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 66 - Song 26 - Part 1 - Before Baseball.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 67 - Song 27 - Part 1 - The Baseball Game.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 68 - Song 27 - Part 2 - The Baseball Game.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 69 - Song 27 - Part 3 - The Baseball Game.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 70 - Song 28 - Part 1 - After Baseball.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 71 - Song 29 - Part 1 - Quick Changes Crabbiness Survey.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 72 - Song 29 - Part 2 - Quick Changes Crabbiness Survey.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 73 - Song 29 - Part 3 - Quick Changes Crabbiness Survey.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 74 - Song 30 - Part 1 - Quick Changes A Loving Little Brother.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 75 - Song 31 - Part 1 - Glee Club Rehearsal.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 76 - Song 32 - Part 1 - Quick Changes Snoopy.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 77 - Song 32 - Part 2 - Quick Changes Snoopy.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 78 - Song 32 - Part 3 - Quick Changes Snoopy.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 79 - Song 32 - Part 4 - Quick Changes Snoopy.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 80 - Song 33 - Part 1 - Little Known Facts.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 81 - Song 33 - Part 2 - Little Known Facts.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 82 - Song 34 - Part 1 - Suppertime.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 83 - Song 34 - Part 2 - Suppertime.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 84 - Song 34 - Part 3 - Suppertime.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 85 - Song 34 - Part 4 - Suppertime.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 86 - Song 35 - Part 1 - Night Scene Underscore.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 87 - Song 36 - Part 1 - Happiness.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 88 - Song 37 - Part 1 - Bows.mp3
+D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 89 - Song 38 - Part 1 - Exit Music.mp3
