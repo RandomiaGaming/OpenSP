@@ -18,7 +18,7 @@ namespace YAGMCBSoundPanel
         public WaveOut WaveOutputDevice;
         public SoundPanel(string soundQueDirectory)
         {
-            Console.WriteLine("Initializing Sound Panel...");
+           /* Console.WriteLine("Initializing Sound Panel...");
             SoundQueDirectory = soundQueDirectory;
             string[] soundQueFilePaths = Directory.GetFiles(SoundQueDirectory);
             SoundQues = new SoundQue[soundQueFilePaths.Length - 80];
@@ -28,7 +28,7 @@ namespace YAGMCBSoundPanel
             }
             WaveOutputDevice = new WaveOut();
             WaveOutputDevice.Init(SoundQues[0].RawSourceWaveStream);
-            Console.WriteLine("Initialized Sound Panel.");
+            Console.WriteLine("Initialized Sound Panel.");*/
 
             Bitmap AutoPlayDisabledTexture = new Bitmap("Icons\\AutoPlayDisabled.bmp");
             Bitmap AutoPlayEnabledTexture = new Bitmap("Icons\\AutoPlayEnabled.bmp");
@@ -43,12 +43,8 @@ namespace YAGMCBSoundPanel
 
             Form player = new Form();
 
-            Button PlayPauseButton = new Button();
-            PlayPauseButton.Size = new Size(100, 100);
-            PlayPauseButton.BackgroundImage = PlayTexture;
-            PlayPauseButton.BackgroundImageLayout = ImageLayout.Stretch;
-
-            player.Controls.Add(PlayPauseButton);
+            ScaledButton playButton = new ScaledButton(PlayTexture, 0, 0, 1, 1, player);
+           // ScaledButton playButton2 = new ScaledButton(PlayTexture, 0.6, 0.6, 0.8, 0.8, player);
 
             Application.Run(player);
         }

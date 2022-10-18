@@ -71,6 +71,9 @@
     <Compile Include="AudioClip.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScaledButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="SoundPanel.cs" />
     <Compile Include="SoundQue.cs" />
   </ItemGroup>
