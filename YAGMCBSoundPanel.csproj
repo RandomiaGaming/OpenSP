@@ -68,14 +68,26 @@
     <Reference Include="System.Windows.Forms" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AudioClip.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScaledPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ScaledLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ScaledSlider.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ScaledPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="ScaledButton.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="AudioPlayer.cs" />
     <Compile Include="SoundPanel.cs" />
-    <Compile Include="SoundQue.cs" />
+    <Compile Include="AudioClip.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

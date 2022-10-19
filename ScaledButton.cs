@@ -1,41 +1,31 @@
-﻿using System;
-using System.Drawing;
-using System.Windows.Forms;
-
-namespace YAGMCBSoundPanel
+﻿namespace YAGMCBSoundPanel
 {
-    public sealed class ScaledButton : PictureBox
+    public delegate void ButtonClickedEvent();
+    public class ScaledButton : ScaledPictureBox
     {
-        public double XMin;
-        public double YMin;
-        public double XMax;
-        public double YMax;
-        public ScaledButton(Image image, double xMin, double yMin, double xMax, double yMax, Form form)
+        #region Public Variables
+        public ButtonClickedEvent ButtonClickedEvent = null;
+        #endregion
+        #region Public Constructors
+        public ScaledButton()
         {
-            BackgroundImage = image;
-            BackgroundImageLayout = ImageLayout.Stretch;
-            form.Controls.Add(this);
-            XMin = xMin;
-            YMin = yMin;
-            XMax = xMax;
-            YMax = yMax;
-            form.Resize += OnResizeEvent;
-            Resize += OnResizeEvent;
-            RefreshSize();
+            MouseDown += OnMouseDownEvent;
         }
-        protected override void OnPaint(PaintEventArgs pevent)
+        #endregion
+        #region Public Methods
+        public new virtual void Click()
         {
-            pevent.Graphics.InterpolationMode = System.Drawing.Drawing2D.InterpolationMode.NearestNeighbor;
-            base.OnPaint(pevent);
+            if (!(ButtonClickedEvent is null))
+            {
+                ButtonClickedEvent.Invoke();
+            }
         }
-        private void OnResizeEvent(object sender, EventArgs e)
+        #endregion
+        #region Protected Methods
+        protected void OnMouseDownEvent(object sender, System.Windows.Forms.MouseEventArgs e)
         {
-            RefreshSize();
+            Click();
         }
-        public void RefreshSize()
-        {
-            Location = new Point((int)(Parent.ClientSize.Width * XMin), (int)(Parent.ClientSize.Height * YMin));
-            Size = new Size((int)(Parent.Width * (XMax - XMin)), (int)(Parent.Height * (XMax - XMin)));
-        }
+        #endregion
     }
 }
