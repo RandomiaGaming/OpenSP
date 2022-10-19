@@ -331,9 +331,6 @@
     <None Include="YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 78 - Song 32 - Part 3 - Quick Changes Snoopy.mp3">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 79 - Song 32 - Part 4 - Quick Changes Snoopy.mp3">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
     <None Include="YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 80 - Song 33 - Part 1 - Little Known Facts.mp3">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -598,9 +595,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 78 - Song 32 - Part 3 - Quick Changes Snoopy.mp3">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 79 - Song 32 - Part 4 - Quick Changes Snoopy.mp3">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 80 - Song 33 - Part 1 - Little Known Facts.mp3">

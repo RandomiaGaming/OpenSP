@@ -76,7 +76,6 @@ D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehe
 D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 76 - Song 32 - Part 1 - Quick Changes Snoopy.mp3
 D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 77 - Song 32 - Part 2 - Quick Changes Snoopy.mp3
 D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 78 - Song 32 - Part 3 - Quick Changes Snoopy.mp3
-D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 79 - Song 32 - Part 4 - Quick Changes Snoopy.mp3
 D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 80 - Song 33 - Part 1 - Little Known Facts.mp3
 D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 81 - Song 33 - Part 2 - Little Known Facts.mp3
 D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Rehearsal Soundtrack\Track 82 - Song 34 - Part 1 - Suppertime.mp3
@@ -188,7 +187,6 @@ D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Perf
 D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 76 - Song 32 - Part 1 - Quick Changes Snoopy.mp3
 D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 77 - Song 32 - Part 2 - Quick Changes Snoopy.mp3
 D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 78 - Song 32 - Part 3 - Quick Changes Snoopy.mp3
-D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 79 - Song 32 - Part 4 - Quick Changes Snoopy.mp3
 D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 80 - Song 33 - Part 1 - Little Known Facts.mp3
 D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 81 - Song 33 - Part 2 - Little Known Facts.mp3
 D:\Programming Projects\YAGMCBSoundBoard\bin\Debug\YAGMCB Soundtrack\YAGMCB Performance Soundtrack\Track 82 - Song 34 - Part 1 - Suppertime.mp3
