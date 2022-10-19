@@ -9,6 +9,7 @@ namespace YAGMCBSoundPanel
         public double YMin { get { return _yMin; } set { _yMin = value; RefreshBounds(); } }
         public double XMax { get { return _xMax; } set { _xMax = value; RefreshBounds(); } }
         public double YMax { get { return _yMax; } set { _yMax = value; RefreshBounds(); } }
+        public double FontSize = 1.0;
         #endregion
         #region Protected Variables
         protected double _xMin = 0.0;
@@ -26,12 +27,20 @@ namespace YAGMCBSoundPanel
         #region Public Methods
         public virtual void RefreshBounds()
         {
-            if(Parent is null)
+            if (Parent is null)
             {
                 return;
             }
             Size = new System.Drawing.Size((int)(Parent.ClientSize.Width * (_xMax - _xMin)), (int)(Parent.ClientSize.Height * (_yMax - _yMin)));
             Location = new System.Drawing.Point((int)(Parent.ClientSize.Width * _xMin), Parent.ClientSize.Height - (int)(Parent.ClientSize.Height * _yMin) - Size.Height);
+            try
+            {
+                Font = new System.Drawing.Font(System.Drawing.FontFamily.GenericSerif, (float)(Height * FontSize), System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Pixel);
+            }
+            catch
+            {
+
+            }
         }
         #endregion
         #region Protected Methods

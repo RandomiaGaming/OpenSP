@@ -31,10 +31,10 @@
         internal ScaledButton _autoPlayButton = null;
 
         internal ScaledSlider _progressSlider = null;
-
         internal ScaledSlider _volumeSlider = null;
 
         internal ScaledLabel _currentTrackInfoLabel = null;
+        internal ScaledLabel _keybindInstructionsLabel = null;
 
         internal bool _autoPlayEnabled = false;
         #endregion
@@ -68,11 +68,11 @@
             _unmutedImage = new System.Drawing.Bitmap("Icons\\Unmuted.bmp");
 
             _updateTimer = new System.Windows.Forms.Timer();
-            _updateTimer.Interval = 25;
+            _updateTimer.Interval = 100;
             _updateTimer.Tick += OnUpdateTimerTick;
 
             _form = new System.Windows.Forms.Form();
-            _form.TransparencyKey = System.Drawing.Color.Transparent;
+            _form.KeyDown += OnKeyDownEvent;
 
             _skipPreviousButton = new ScaledButton();
             _skipPreviousButton.XMin = 0.0 / 15.0;
@@ -164,12 +164,22 @@
             _currentTrackInfoLabel.YMin = 0.1875;
             _currentTrackInfoLabel.XMax = 1;
             _currentTrackInfoLabel.YMax = 0.225;
-            _currentTrackInfoLabel.BackColor = System.Drawing.Color.Transparent;
+            _currentTrackInfoLabel.FontSize = 1.0;
             _currentTrackInfoLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             _currentTrackInfoLabel.Text = _audioClips[_currentAudioClipIndex].SourceFileNameWithoutExtension;
             _currentTrackInfoLabel.AutoSize = false;
             _currentTrackInfoLabel.Font = new System.Drawing.Font(System.Drawing.FontFamily.GenericSerif, _currentTrackInfoLabel.Height, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Pixel);
             _form.Controls.Add(_currentTrackInfoLabel);
+
+            _keybindInstructionsLabel = new ScaledLabel();
+            _keybindInstructionsLabel.XMin = 0;
+            _keybindInstructionsLabel.YMin = 0.225;
+            _keybindInstructionsLabel.XMax = 1;
+            _keybindInstructionsLabel.YMax = 1;
+            _keybindInstructionsLabel.FontSize = 0.05;
+            _keybindInstructionsLabel.TextAlign = System.Drawing.ContentAlignment.TopLeft;
+            _keybindInstructionsLabel.Text = "Space: Skip Next\nShift: Pause/Play\nE: Mute/Unmute\nR: Replay\nW: Volume Up\nS: Volume Down\nD: Skip Forward\nA: Skip Back\nQ: Autoplay On/Off\nControl: Skip Previous\nF: Stop";
+            _form.Controls.Add(_keybindInstructionsLabel);
 
             Update();
         }
@@ -188,14 +198,12 @@
         }
         internal void Update()
         {
-            _currentTrackInfoLabel.Font = new System.Drawing.Font(System.Drawing.FontFamily.GenericSerif, _currentTrackInfoLabel.Height, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Pixel);
-
             _currentTrackInfoLabel.Text = _audioClips[_currentAudioClipIndex].SourceFileNameWithoutExtension;
 
             _progressSlider._value = _audioPlayer.StreamPosition / (double)_audioClips[_currentAudioClipIndex].StreamLength;
             _progressSlider.Invalidate();
 
-            _volumeSlider._value = _audioPlayer.Volume;
+            _volumeSlider._value = _audioPlayer._volume;
             _volumeSlider.Invalidate();
 
             if (_audioPlayer.StreamPosition == _audioClips[_currentAudioClipIndex].StreamLength)
@@ -295,6 +303,83 @@
         {
             _audioPlayer.Volume = value;
             Update();
+        }
+        internal void OnKeyDownEvent(object sender, System.Windows.Forms.KeyEventArgs e)
+        {
+            if (e.KeyCode is System.Windows.Forms.Keys.Space)
+            {
+                OnSkipNextButtonClicked();
+            }
+            else if (e.KeyCode is System.Windows.Forms.Keys.Shift || e.KeyCode is System.Windows.Forms.Keys.ShiftKey || e.KeyCode is System.Windows.Forms.Keys.LShiftKey || e.KeyCode is System.Windows.Forms.Keys.RShiftKey)
+            {
+                OnPauseButtonClicked();
+            }
+            else if (e.KeyCode is System.Windows.Forms.Keys.E)
+            {
+                OnMuteButtonClicked();
+            }
+            else if (e.KeyCode is System.Windows.Forms.Keys.R)
+            {
+                OnReplayButtonClicked();
+            }
+            else if (e.KeyCode is System.Windows.Forms.Keys.W)
+            {
+                double newVolume = _audioPlayer._volume + 0.1;
+                if(newVolume > 1.0)
+                {
+                    newVolume = 1.0;
+                }
+                _audioPlayer.Volume = newVolume;
+                Update();
+            }
+            else if (e.KeyCode is System.Windows.Forms.Keys.S)
+            {
+                double newVolume = _audioPlayer._volume - 0.1;
+                if (newVolume < 0.0)
+                {
+                    newVolume = 0.0;
+                }
+                _audioPlayer.Volume = newVolume;
+                Update();
+            }
+            else if (e.KeyCode is System.Windows.Forms.Keys.D)
+            {
+                System.TimeSpan newPosition = _audioPlayer.Position + new System.TimeSpan(0, 0, 10);
+                if(newPosition.Ticks >= _audioClips[_currentAudioClipIndex].Length.Ticks)
+                {
+                    _audioPlayer.Seek(_audioClips[_currentAudioClipIndex].Length - new System.TimeSpan(1));
+                }
+                else
+                {
+                    _audioPlayer.Seek(newPosition);
+                }
+                Update();
+            }
+            else if (e.KeyCode is System.Windows.Forms.Keys.A)
+            {
+                System.TimeSpan newPosition = _audioPlayer.Position - new System.TimeSpan(0, 0, 10);
+                if (newPosition.Ticks < 0)
+                {
+                    _audioPlayer.Seek(0);
+                }
+                else
+                {
+                    _audioPlayer.Seek(newPosition);
+                }
+                Update();
+            }
+            else if (e.KeyCode is System.Windows.Forms.Keys.Q)
+            {
+                OnAutoPlayButtonClicked();
+            }
+            else if (e.KeyCode is System.Windows.Forms.Keys.Control || e.KeyCode is System.Windows.Forms.Keys.ControlKey || e.KeyCode is System.Windows.Forms.Keys.LControlKey || e.KeyCode is System.Windows.Forms.Keys.RControlKey)
+            {
+                OnSkipPreviousButtonClicked();
+            }
+            else if (e.KeyCode is System.Windows.Forms.Keys.F)
+            {
+                OnStopButtonClicked();
+            }
         }
         #endregion
     }
