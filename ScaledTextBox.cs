@@ -1,6 +1,6 @@
 ﻿namespace YAGMCBSoundPanel
 {
-    public class ScaledLabel : System.Windows.Forms.Label
+    public class ScaledTextBox : System.Windows.Forms.TextBox
     {
         #region Public Variables
         public double XMin { get { return _xMin; } set { _xMin = value; RefreshBounds(); } }
@@ -17,7 +17,7 @@
         protected System.Windows.Forms.Control _currentParent = null;
         #endregion
         #region Public Constructors
-        public ScaledLabel()
+        public ScaledTextBox()
         {
             ParentChanged += OnParentChangedEvent;
         }

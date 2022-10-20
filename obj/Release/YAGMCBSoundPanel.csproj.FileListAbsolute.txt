@@ -182,7 +182,7 @@ D:\Programming Projects\YAGMCBSoundBoard\bin\Release\Icons\Play.bmp
 D:\Programming Projects\YAGMCBSoundBoard\bin\Release\Icons\Replay.bmp
 D:\Programming Projects\YAGMCBSoundBoard\bin\Release\Icons\SkipNext.bmp
 D:\Programming Projects\YAGMCBSoundBoard\bin\Release\Icons\SkipPrevious.bmp
-D:\Programming Projects\YAGMCBSoundBoard\bin\Release\Icons\Stop.bmp
+D:\Programming Projects\YAGMCBSoundBoard\bin\Release\Icons\ResetVolume.bmp
 D:\Programming Projects\YAGMCBSoundBoard\bin\Release\Icons\Unmuted.bmp
 D:\Programming Projects\YAGMCBSoundBoard\bin\Release\YAGMCBSoundPanel.exe.config
 D:\Programming Projects\YAGMCBSoundBoard\bin\Release\YAGMCBSoundPanel.exe
