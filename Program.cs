@@ -10,7 +10,7 @@
             string assemblyDirectory = System.IO.Path.GetDirectoryName(assemblyLocation);
             string audioClipDirectory = assemblyDirectory + "\\YAGMCB Soundtrack\\YAGMCB Performance Soundtrack";
             string[] audioClipFilePaths = System.IO.Directory.GetFiles(audioClipDirectory);
-            AudioClip[] audioClips = new AudioClip[audioClipFilePaths.Length - 80];
+            AudioClip[] audioClips = new AudioClip[audioClipFilePaths.Length];
             for (int i = 0; i < audioClips.Length; i++)
             {
                 audioClips[i] = new AudioClip(audioClipFilePaths[i]);

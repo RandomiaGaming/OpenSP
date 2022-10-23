@@ -95,6 +95,7 @@
         public AudioPlayer()
         {
             _nAudioWaveOutputDevice = new NAudio.Wave.WaveOut();
+            _nAudioWaveOutputDevice.DeviceNumber = 0;
         }
         #endregion
         #region Public Methods
