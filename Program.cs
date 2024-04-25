@@ -1,11 +1,14 @@
-﻿namespace OpenSP
+﻿using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+using System.Windows.Forms;
+
+namespace OpenSP
 {
     public static class Program
-    {
+	{
         [System.STAThread()]
-        public static void Main()
+		public static void Main()
         {
-            System.Diagnostics.Stopwatch stopwatch =  new System.Diagnostics.Stopwatch();
+		  System.Diagnostics.Stopwatch stopwatch =  new System.Diagnostics.Stopwatch();
             stopwatch.Start();
             System.Reflection.Assembly assembly = typeof(Program).Assembly;
             string assemblyLocation = assembly.Location;
